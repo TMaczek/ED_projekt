@@ -10,7 +10,7 @@ We used the [Banana Index](https://www.kaggle.com/datasets/joebeachcapital/banan
 - **Banana index** - a value that was used to compare the products enviromental impact with banana in article that this dataset originated from.
 
 ## Analysis
-We familiarized with dataset and removed some empty values. We deciced on 5 columns that we will proceed our analysis with. After ploting corelation matrix for emission colums we noticed already very high corelation between land use and emissions.  
+We familiarized with dataset and removed some empty values. We deciced on 5 columns that we will proceed our analysis with. Values in other columns were based on those 5, so we could always calculate them again. After ploting corelation matrix for emission colums we noticed already very high corelation between land use and emissions, which will come up a few times later.   
 ![download](https://github.com/user-attachments/assets/efb94f2a-9741-4da2-abcd-f85db059e7da)  
 
 ## Outliers
