@@ -24,7 +24,7 @@ We took two approached to finding outliers: first with **three sigma rule** for 
 - For land use we got exactly same items as for emissions in kg, confirming their high corelation. ![download](https://github.com/user-attachments/assets/d6728fd4-dddd-42f1-9ce6-948ff1f012fe)
 
 
-Second approach was to use **K nearest neighbors** algorithm on all data dimensions at once. We managed to find such parameters, that our result here were all previously found with three sigma rule. 
+Second approach was to use **K nearest neighbors** algorithm on all data dimensions at once. We managed to find such parameters, that our result here were all previously found with three sigma rule. Below is show one of the plots from this part. In the notebook you can find ones with other columns compared.
 ![download](https://github.com/user-attachments/assets/7b474d44-46d5-45a0-b322-df14091acfc2)
 
 
