@@ -1,5 +1,7 @@
 # Data Exploration project
 
+Project for Data Exploration course. We worked with Python notebooks, preparing data, updating our finding weekly and presenting our result to the group at the end.
+
 ## Dataset
 We used the [Banana Index](https://www.kaggle.com/datasets/joebeachcapital/banana-index) dataset. It contains data of:
 
